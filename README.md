@@ -53,7 +53,7 @@ IMAGE:
 [EX 07 Dia.pdf](https://github.com/user-attachments/files/24149026/EX.07.Dia.pdf)
 
 WAVEFORM: 
-[Wave.bmp](https://github.com/user-attachments/files/24149050/Wave.bmp)
+![jk](https://github.com/user-attachments/assets/2271e54f-422d-441a-84a3-9d0cd118a8b5)
 
 NAME: HEMA PRIYA
 
